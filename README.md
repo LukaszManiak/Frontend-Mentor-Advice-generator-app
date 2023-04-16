@@ -26,8 +26,8 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 1](/screenshots/advice-generator-app-ss1.jpg?raw=true 'Screenshot 1')
-![Screenshot 2](/screenshots/advice-generator-app-ss2.jpg?raw=true 'Screenshot 2')
-![Screenshot 3](/screenshots/advice-generator-app-ss3.jpg?raw=true 'Screenshot 3')
+![Screenshot 2](/screenshots/advice-generator-app-ss2.jpeg?raw=true 'Screenshot 2')
+![Screenshot 3](/screenshots/advice-generator-app-ss3.jpeg?raw=true 'Screenshot 3')
 
 ### Links
 
@@ -44,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [Lukasz Maniak](https://www.frontendmentor.io/profile/Mejniak)
-- GitHub-[Lukasz Maniak](https://github.com/Mejniak)
+- GitHub- [Lukasz Maniak](https://github.com/Mejniak)
