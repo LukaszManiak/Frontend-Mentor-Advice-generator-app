@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Frontend Mentor | Advice generator app</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <div class="advice--container">
+      <p class="advice--number"></p>
+      <p class="advice"></p>
+      <img
+        class="divider divider1"
+        src="images/pattern-divider-desktop.svg"
+        alt=""
+      />
+      <img
+        class="divider divider2"
+        src="images/pattern-divider-mobile.svg"
+        alt=""
+      />
+      <button class="draw--advice">
+        <img src="images/icon-dice.svg" alt="" />
+      </button>
+    </div>
+
+    <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by
+      <a href="https://github.com/Mejniak" target="_blank">Łukasz Maniak</a>.
+    </div>
+    <div class="overlay"></div>
+    <div class="alert-modal">
+      <p>Warning</p>
+      Too many requests! You can make only one request for every two seconds.
+    </div>
+  </body>
+</html>
