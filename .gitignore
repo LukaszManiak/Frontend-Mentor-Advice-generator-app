@@ -1,1 +1,4 @@
 design
+dist
+node_modules
+.parcel-cache
