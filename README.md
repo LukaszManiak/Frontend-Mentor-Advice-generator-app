@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Mejniak/Frontend-Mentor---Advice-generator-app)
-- Live Site URL: [Netlify](https://advicegeneratorapp-lukaszmaniak.netlify.app)
+- Live Site URL: [Netlify](advicegeneratorapp-lukas.netlify.app)
 
 ### Built with
 
