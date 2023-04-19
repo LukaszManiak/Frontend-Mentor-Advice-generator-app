@@ -40,7 +40,7 @@ const checkRequestCount = function () {
   if (clickCount >= 2 && clickCount < 4) {
     alertModal.classList.add('drop');
     alertModal.classList.remove('hide');
-    setTimeout(resetCounter, 2500);
+    setTimeout(resetCounter, 3000);
   }
 };
 const resetCounter = function () {
@@ -50,4 +50,4 @@ const resetCounter = function () {
 };
 
 showAdvice();
-setInterval(resetCounter, 2000);
+setInterval(resetCounter, 4000);
