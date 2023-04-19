@@ -1,7 +1,7 @@
 {
   "name": "advice-generator-app-main",
   "version": "1.0.0",
-  "description": "## Welcome! 👋",
+  "description": "advice-generator-app-main",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
