@@ -48,4 +48,6 @@ const resetCounter = function () {
   alertModal.classList.remove('drop');
   alertModal.classList.add('hide');
 };
+
 showAdvice();
+setInterval(resetCounter, 2000);
